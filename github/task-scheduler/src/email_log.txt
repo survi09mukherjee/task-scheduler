@@ -1,0 +1,8 @@
+---- 2025-06-12 14:32:12 ----
+⚠️ Invalid email skipped: survi.mukherjee09@gmail.com||0
+⚠️ Invalid email skipped: survi.mukherjee09@gmail.com||0abcd1@gmail.com|467734|0
+⚠️ Invalid email skipped: abcd1@gmail.com|445645|0
+✅ Reminder job completed. Emails processed: 0
+
+[2025-06-12 20:07:34] Email sent to survi.mukherjee09@gmail.com
+[2025-06-12 20:07:34] Email sent to abcd1@gmail.com
